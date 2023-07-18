@@ -1,0 +1,8 @@
+npm install -g create-react-app
+npx create-react-app todo-list-webapp
+cd todo-list-webapp
+git init
+git remote add origin https://github.com/your-username/todo-list-webapp.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
